@@ -1,2 +1,1 @@
-# JUNGHO-TOMCAT
-Practice For GCP Server
+# JUNGHO's Google Cloud platform
